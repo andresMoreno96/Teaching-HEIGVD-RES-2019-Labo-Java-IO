@@ -59,7 +59,7 @@ public abstract class FileTransformer implements IFileVisitor {
             }
 
 
-            reader.close();
+
             br.close();
 
             reader.close();
